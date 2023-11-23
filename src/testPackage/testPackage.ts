@@ -1,6 +1,4 @@
-export const testMethod = () => {
-  console.log("first");
-};
+export const testMethod = () => "testValue";
 
 export const testObj = { second: "second" };
 

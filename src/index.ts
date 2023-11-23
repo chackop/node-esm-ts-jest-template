@@ -1,3 +1,3 @@
 import { testMethod } from "./testPackage/testPackage.js";
 
-testMethod();
+console.log("output: ", testMethod());
